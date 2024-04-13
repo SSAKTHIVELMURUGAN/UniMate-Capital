@@ -1,6 +1,6 @@
-# Unimate Capital
+# UniMate Capital
 
-# Unimate Capital Console-Based Financial Management System
+# UniMate Capital Console-Based Financial Management System
 
 ## Overview:
 Unimate Capital Console-Based Financial Management System is a Python project aimed at providing accessible financial solutions for individuals seeking personal loans and investors looking for opportunities. This console application allows users to interactively manage their financial needs, including borrowing, investing, and adjusting loan terms.
